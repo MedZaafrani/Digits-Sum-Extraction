@@ -1,6 +1,6 @@
 import re
 
-file_path = "C:/Users/moham/OneDrive/Bureau/STAGE/testTECH/document.txt"
+file_path = "C:/document.txt"
 
 def total_pairs_infile(file_path):
     total_pair = 0
